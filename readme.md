@@ -34,7 +34,6 @@ Each computer runs a small background agent that:
 
 - Python 3.6 or newer on all computers
 - All computers on the same network, with firewalls allowing the ports you choose
-  ```
 
 ### Configuration File
 
