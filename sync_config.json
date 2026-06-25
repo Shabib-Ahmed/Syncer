@@ -1,0 +1,14 @@
+{
+  "peers": [
+    "192.168.1.50",
+    "192.168.1.51",
+    "192.168.1.52"
+  ],
+  "sync_folders": [
+    {
+      "name": "project-alpha",
+      "local_path": "./alpha",
+      "http_port": 8001
+    }
+  ]
+}
